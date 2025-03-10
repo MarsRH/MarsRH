@@ -61,8 +61,6 @@ I'm `WhitePeach`, currently a senior student. I'm expected to graduate in Summer
 <h2 align="center">📈 Activity tracking</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -74,7 +72,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/03/2025 13:22:22 UTC
+ Last Updated on 10/03/2025 13:31:56 UTC
 <!--END_SECTION:waka-->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarsRH&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph">

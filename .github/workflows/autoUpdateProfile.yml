@@ -45,4 +45,5 @@ jobs:
           SHOW_SHORT_INFO: False # optional, default is True
           # Show stats in your own language
           # LOCALE: # optional, default is en
-                
+          
+          SHOW_TOTAL_CODE_TIME: False

@@ -59,6 +59,7 @@ I'm `WhitePeach`, currently a senior student. I'm expected to graduate in Summer
 
 <!-- 动态活动图 -->
 <h2 align="center">📈 Activity tracking</h2>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 

@@ -20,13 +20,13 @@ jobs:
           # Your Wakatime API Key
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # Show the list of OS Worked on In dev metrics
-          SHOW_OS: False # optional, default is True
+          # SHOW_OS: False # optional, default is True
           # Show the list of projects worked on in dev metrics
           SHOW_PROJECTS: False # optional, default is True
           # Show the Editors used in dev metrics
           # SHOW_EDITORS: # optional, default is True
           # Show the time zone in the dev metrics
-          SHOW_TIMEZONE: False # optional, default is True
+          # SHOW_TIMEZONE: False # optional, default is True
           # Shows the number of commit graph in the dev metrics
           SHOW_COMMIT: False # optional, default is True
           # Show the Coding language used in dev metrics

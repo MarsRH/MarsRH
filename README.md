@@ -62,38 +62,9 @@ I'm `WhitePeach`, currently a senior student. I'm expected to graduate in Summer
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 23 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   4 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                11 commits          ███████████░░░░░░░░░░░░░░   45.83 % 
-Thursday                 6 commits           ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
@@ -102,7 +73,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/03/2025 13:04:19 UTC
+ Last Updated on 10/03/2025 13:22:22 UTC
 <!--END_SECTION:waka-->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarsRH&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph">

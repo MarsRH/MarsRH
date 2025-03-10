@@ -64,15 +64,20 @@ I'm `WhitePeach`, currently a senior student. I'm expected to graduate in Summer
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Shanghai
+
 💬 Programming Languages: 
 No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/03/2025 13:31:56 UTC
+ Last Updated on 10/03/2025 13:44:23 UTC
 <!--END_SECTION:waka-->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarsRH&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph">

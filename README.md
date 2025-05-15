@@ -69,7 +69,7 @@ I'm `WhitePeach`, currently a senior student. I'm expected to graduate in Summer
 💬 Programming Languages: 
 Markdown                 2 hrs 6 mins        ██████████████░░░░░░░░░░░   56.26 % 
 C++                      46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-Go                       29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Go                       29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
 Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
 Objective-C              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
@@ -82,7 +82,7 @@ Linux                    54 mins             ██████░░░░░�
 ```
 
 
- Last Updated on 14/05/2025 04:26:18 UTC
+ Last Updated on 15/05/2025 04:26:10 UTC
 <!--END_SECTION:waka-->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarsRH&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph">

@@ -61,24 +61,8 @@ I'm `WhitePeach`, currently a senior student. I'm expected to graduate in Summer
 <h2 align="center">📈 Activity tracking</h2>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Go                       1 hr 32 mins        █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    1 hr 32 mins        █████████████████████████   99.36 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-```
-
-
- Last Updated on 19/09/2025 04:25:14 UTC
+ Last Updated on 20/09/2025 04:24:16 UTC
 <!--END_SECTION:waka-->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarsRH&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph">

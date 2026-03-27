@@ -67,19 +67,20 @@ I'm `WhitePeach`, currently a senior student. I'm expected to graduate in Summer
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       5 hrs 25 mins       ████████████████████████░   94.59 % 
-Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Go                       8 hrs 2 mins        ████████████████████████░   96.25 % 
+Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 43 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/03/2026 05:42:08 UTC
+ Last Updated on 27/03/2026 05:42:56 UTC
 <!--END_SECTION:waka-->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarsRH&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph">

@@ -69,7 +69,8 @@ I'm `WhitePeach`, currently a senior student. I'm expected to graduate in Summer
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       1 min               █████████████████████████   100.00 % 
+Go                       1 min               ██████████████████████░░░   86.90 % 
+SQL                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
 
 🔥 Editors: 
 VS Code                  1 min               █████████████████████████   100.00 % 
@@ -85,7 +86,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 15/10/2026 08:58:35 UTC
+ Last Updated on 16/10/2026 08:50:01 UTC
 <!--END_SECTION:waka-->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarsRH&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph">
